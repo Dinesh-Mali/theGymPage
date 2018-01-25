@@ -1,0 +1,40 @@
+body {
+    background: url("../Images/gym.jpeg");
+    background-size: cover;
+    font-family: 'Amaranth', sans-serif;
+
+}
+
+div {
+    background-color: #e9ecef;
+    margin: 0 auto;
+    width: 60%;
+    margin-top: 200px;
+    text-align: center;
+    border-radius: 20px;
+    opacity: 0.75;
+}
+button {
+    background-color: darkred;
+    padding: 20px;
+    font-size: 1.8em             ;
+    border-radius: 10px;
+    font-weight: 600;
+    
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+p {
+    font-size: 2em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+i {
+    color: darkred;
+}
